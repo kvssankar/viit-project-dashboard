@@ -21,6 +21,18 @@ Its better if we familiarize ourselves with these technologies.
 2. Each task with a title, start date, deadline, status, people working on it
 3. A calender view of tasks
 
+> NOTE : 
+> Below are just samples to give you a vague idea baout what page
+should contain. Make it vinnovateit theme oriented, add extra stuff which ever is needed for particular page
+
+## Built it With 🎯
+**A lot of love, dedication and a little bootstrap**
+* Bootstrap
+* Custom css
+* HTML
+* JS
+
+
 # Frontend work
 1. Home page, with all the info about vinnovateit and project
 2. Dashboard page
@@ -45,7 +57,8 @@ This form page is to create projects. Inputs need
 5. Whats app number of person leading project
 6. Teamates names ( like we add in todo list, names should be added in that way)
 
-**Design it using bootstrap, custom css anything you prefer but should match the theme of website**
+>  Any doubts refarding inputs to be taken contact us
+
 
 ***
 
@@ -56,7 +69,20 @@ This form page is to create projects. Inputs need
 
 ### Prerequisites
 [![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://www.instagram.com/kshitij_dhyani/) [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://www.linkedin.com/in/kshitijdhyani/) [![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/wimpywarlord)
-We expect you to you html, css , js bootstrap
+
+1. HTML
+2. CSS
+3. BOOTSTRAP
+4. MOTIVATION
+
+# Resources
+[Md Bootstrap - A framework over bootstrap](https://mdbootstrap.com/docs/standard/getting-started/installation/)
+[Freefrontend](https://freefrontend.com/)
+[Bootstrap](https://getbootstrap.com/)
+[Codepen](https://codepen.io/)
+
+*And ofcourse*
+[Google](https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwjUsffnibnuAhWBj-YKHZbmC04QPQgI)
 
 ## Installing☔
 
@@ -77,10 +103,7 @@ use live server
 
 
 
-## Built With 🎯
-**A lot of love and a little JavaScript**
 
-* [Node.js](https://nodejs.org/en/) - The web framework used
 
 ## Contributing 
 
