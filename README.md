@@ -76,10 +76,11 @@ This form page is to create projects. Inputs need
 4. MOTIVATION
 
 # Resources
-[Md Bootstrap - A framework over bootstrap](https://mdbootstrap.com/docs/standard/getting-started/installation/)
-[Freefrontend](https://freefrontend.com/)
-[Bootstrap](https://getbootstrap.com/)
-[Codepen](https://codepen.io/)
+
+ 1. [Md Bootstrap - A framework over bootstrap](https://mdbootstrap.com/docs/standard/getting-started/installation/)
+   3.  [Freefrontend](https://freefrontend.com/)
+    4. [Bootstrap](https://getbootstrap.com/)
+    5. [Codepen](https://codepen.io/)
 
 *And ofcourse*
 [Google](https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwjUsffnibnuAhWBj-YKHZbmC04QPQgI)
