@@ -78,9 +78,9 @@ This form page is to create projects. Inputs need
 # Resources
 
  1. [Md Bootstrap - A framework over bootstrap](https://mdbootstrap.com/docs/standard/getting-started/installation/)
-   3.  [Freefrontend](https://freefrontend.com/)
-    4. [Bootstrap](https://getbootstrap.com/)
-    5. [Codepen](https://codepen.io/)
+ 2.  [Freefrontend](https://freefrontend.com/)
+ 3. [Bootstrap](https://getbootstrap.com/)
+ 4. [Codepen](https://codepen.io/)
 
 *And ofcourse*
 [Google](https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwjUsffnibnuAhWBj-YKHZbmC04QPQgI)
